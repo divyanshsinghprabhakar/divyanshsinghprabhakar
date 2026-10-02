@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Divyansh Singh Prabhakar 👋
 
-<!--
-**divyanshsinghprabhakar/divyanshsinghprabhakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a third-year Artificial Intelligence & Machine Learning student at VIT Bhopal.
 
-Here are some ideas to get you started:
+💻 I enjoy building projects and exploring Artificial Intelligence, Machine Learning, Computer Vision, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Programming Languages
+
+- Python
+- Java
+- C++
+
+### 🔍 Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Deep Learning
+- Software Development
+
+### 🚀 Currently Building
+
+I'm working on practical AI/ML projects to strengthen my programming, machine learning, and problem-solving skills.
+
+### 📚 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Generative AI
+- Data Structures & Algorithms
+
+### 🎯 Goal
+
+To develop strong technical and problem-solving skills by building practical AI/ML systems and becoming industry-ready.
+
+---
+
+📫 Feel free to explore my repositories and projects below.
